@@ -7,7 +7,7 @@ def question2_2():
     return answer
 
 def question2_3():
-    answer = ['Continuous', 'Quantitative', 'Interval']
+    answer = ['Continuous', 'Quantitative', 'Ratio']
     return answer 
 
 def question2_4():
@@ -15,5 +15,5 @@ def question2_4():
     return answer
 
 def question2_5():
-    answer = ['Binary', 'Qualitative', 'Nominal']
+    answer = ['Discrete', 'Qualitative', 'Nominal']
     return answer
